@@ -1,0 +1,11 @@
+.\objects\mpu6050.o: ..\Mpu6050\mpu6050.c
+.\objects\mpu6050.o: ..\Mpu6050\ALL_DATA.h
+.\objects\mpu6050.o: ..\Mpu6050\mpu6050.h
+.\objects\mpu6050.o: D:\software\stm32\Keil\KEIL\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mpu6050.o: ..\Mpu6050\myMath.h
+.\objects\mpu6050.o: ..\Mpu6050\kalman.h
+.\objects\mpu6050.o: D:\software\stm32\Keil\KEIL\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mpu6050.o: ..\BSP\IIC.h
+.\objects\mpu6050.o: D:\software\stm32\Keil\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\mpu6050.o: ..\BSP\delay.h
+.\objects\mpu6050.o: D:\software\stm32\Keil\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
